@@ -5,3 +5,7 @@ __pycache__/*
 handouts/~$bing_speech_api介紹.pptx
 handouts/bing_speech_api介紹.pptx
 output/*
+reveal.js/*
+py_file/*
+main_handout.slides.html
+.ipynb_checkpoints/*
