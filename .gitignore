@@ -9,3 +9,4 @@ reveal.js/*
 py_file/*
 main_handout.slides.html
 .ipynb_checkpoints/*
+.vscode/*
